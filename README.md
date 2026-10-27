@@ -21,6 +21,16 @@ PasteIna garde en mémoire tout ce que vous copiez : textes, images, liens, fich
 
 Pas de compte, pas d'abonnement, pas de publicité. Vos données ne quittent jamais votre Mac.
 
+## Captures
+
+<p align="center">
+  <img src="docs/screenshots/panel.png" alt="Le panneau de PasteIna avec l'historique sous forme de cartes" width="820">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/settings.png" alt="La fenêtre des réglages de PasteIna" width="560">
+</p>
+
 ## Fonctionnalités
 
 **Historique complet**
