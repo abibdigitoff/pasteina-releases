@@ -113,20 +113,15 @@ Clic droit sur une carte : ranger dans une collection, supprimer… Clic droit s
 
 Les détails sont dans la [politique de confidentialité](PRIVACY.md).
 
-## PasteIna ou Paste ?
+## Léger et rapide
 
-[Paste](https://pasteapp.io) est une excellente app, plus complète, et payante par abonnement. PasteIna en reprend l'essentiel, gratuitement, avec une app beaucoup plus légère.
-
-| | Paste | PasteIna |
-| --- | --- | --- |
-| Prix | Abonnement | **Gratuit** |
-| Taille de l'app | 33 Mo | **6,6 Mo** (DMG : 3,2 Mo) |
-| Mémoire utilisée | ~330 Mo | **~75 Mo** |
-| Synchronisation iCloud | Oui | Non |
-| App iPhone / iPad | Oui | Non |
-| Données | Locales + iCloud (si activé) | **Uniquement locales** |
-
-Mesures réalisées le 27 octobre 2026 sur un Mac Apple Silicon. Méthode et détails dans le [comparatif complet](docs/COMPARATIF.md).
+| | PasteIna |
+| --- | --- |
+| Prix | **Gratuit** |
+| Taille de l'app | **6,6 Mo** |
+| Mémoire utilisée | **~75 Mo** |
+| Recherche dans 10 000 éléments | **moins de 5 ms** |
+| Données | **Uniquement sur votre Mac** |
 
 ## Questions fréquentes
 
@@ -197,11 +192,10 @@ Ouvrez un [ticket sur GitHub](https://github.com/abibdigitoff/pasteina-releases/
 - [Nouveautés (CHANGELOG)](CHANGELOG.md)
 - [Politique de confidentialité](PRIVACY.md)
 - [Licence](LICENSE)
-- [Comparatif avec Paste](docs/COMPARATIF.md)
 - [Signaler un problème](https://github.com/abibdigitoff/pasteina-releases/issues)
 
 ---
 
 <div align="center">
-<sub>© 2026 ABIB DIGIT · PasteIna n'est pas affilié à Paste ni à ses éditeurs.</sub>
+<sub>© 2026 ABIB DIGIT</sub>
 </div>
