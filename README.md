@@ -7,7 +7,7 @@
 **Tout ce que vous copiez, retrouvé en un instant.**<br>
 Un gestionnaire de presse-papiers pour Mac, gratuit, léger et 100 % local.
 
-<a href="https://github.com/adidiibou0218-ui/pasteina-releases/releases/latest"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-pour%20macOS-1E2124?style=for-the-badge&logo=apple&logoColor=white" alt="Télécharger pour macOS"></a>
+<a href="https://github.com/abibdigitoff/pasteina-releases/releases/latest"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-pour%20macOS-1E2124?style=for-the-badge&logo=apple&logoColor=white" alt="Télécharger pour macOS"></a>
 
 <sub>Gratuit · macOS 12 ou plus récent · Signé et notarisé par Apple</sub>
 
@@ -71,7 +71,7 @@ Pas de compte, pas d'abonnement, pas de publicité. Vos données ne quittent jam
 
 ## Installation
 
-1. **Téléchargez** le fichier `.dmg` depuis la [dernière version](https://github.com/adidiibou0218-ui/pasteina-releases/releases/latest).
+1. **Téléchargez** le fichier `.dmg` depuis la [dernière version](https://github.com/abibdigitoff/pasteina-releases/releases/latest).
 2. **Ouvrez-le** et glissez PasteIna dans le dossier **Applications**.
 3. **Lancez PasteIna** depuis le dossier Applications.
 
@@ -187,18 +187,18 @@ La première ligne efface votre historique et vos collections : c'est définitif
 <details>
 <summary><strong>J'ai trouvé un problème, ou j'ai une idée</strong></summary>
 
-Ouvrez un [ticket sur GitHub](https://github.com/adidiibou0218-ui/pasteina-releases/issues) en décrivant ce qui s'est passé et votre version de macOS.
+Ouvrez un [ticket sur GitHub](https://github.com/abibdigitoff/pasteina-releases/issues) en décrivant ce qui s'est passé et votre version de macOS.
 </details>
 
 ## Liens
 
-- [Télécharger la dernière version](https://github.com/adidiibou0218-ui/pasteina-releases/releases/latest)
-- [Lien direct vers le .dmg](https://github.com/adidiibou0218-ui/pasteina-releases/releases/latest/download/PasteIna.dmg)
+- [Télécharger la dernière version](https://github.com/abibdigitoff/pasteina-releases/releases/latest)
+- [Lien direct vers le .dmg](https://github.com/abibdigitoff/pasteina-releases/releases/latest/download/PasteIna.dmg)
 - [Nouveautés (CHANGELOG)](CHANGELOG.md)
 - [Politique de confidentialité](PRIVACY.md)
 - [Licence](LICENSE)
 - [Comparatif avec Paste](docs/COMPARATIF.md)
-- [Signaler un problème](https://github.com/adidiibou0218-ui/pasteina-releases/issues)
+- [Signaler un problème](https://github.com/abibdigitoff/pasteina-releases/issues)
 
 ---
 

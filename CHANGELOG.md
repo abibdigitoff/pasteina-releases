@@ -6,6 +6,11 @@ Le format suit [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/) et les n
 
 Les versions 0.1 à 0.4 sont des versions de développement internes : elles n'ont pas été publiées.
 
+## [1.0.1] – 2026-10-28
+
+### Modifié
+- Les téléchargements et les mises à jour sont désormais publiés sur le compte GitHub abibdigitoff.
+
 ## [1.0.0] – 2026-10-28
 
 Première version stable, validée après la bêta 0.9.0. Aucun changement fonctionnel depuis la 0.9.0.
@@ -78,9 +83,10 @@ Première version qui fonctionne de bout en bout.
 - Pause de la capture, apps ignorées, contenus confidentiels et temporaires ignorés.
 - Logo et icône dans la barre des menus.
 
-[1.0.0]: https://github.com/adidiibou0218-ui/pasteina-releases/releases/tag/v1.0.0
-[0.9.0]: https://github.com/adidiibou0218-ui/pasteina-releases/releases/tag/v0.9.0
-[0.4.0]: https://github.com/adidiibou0218-ui/pasteina-releases/releases
-[0.3.0]: https://github.com/adidiibou0218-ui/pasteina-releases/releases
-[0.2.0]: https://github.com/adidiibou0218-ui/pasteina-releases/releases
-[0.1.0]: https://github.com/adidiibou0218-ui/pasteina-releases/releases
+[1.0.1]: https://github.com/abibdigitoff/pasteina-releases/releases/tag/v1.0.1
+[1.0.0]: https://github.com/abibdigitoff/pasteina-releases/releases/tag/v1.0.0
+[0.9.0]: https://github.com/abibdigitoff/pasteina-releases/releases/tag/v0.9.0
+[0.4.0]: https://github.com/abibdigitoff/pasteina-releases/releases
+[0.3.0]: https://github.com/abibdigitoff/pasteina-releases/releases
+[0.2.0]: https://github.com/abibdigitoff/pasteina-releases/releases
+[0.1.0]: https://github.com/abibdigitoff/pasteina-releases/releases

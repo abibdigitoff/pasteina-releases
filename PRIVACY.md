@@ -54,6 +54,6 @@ Comme vos données ne sont stockées que sur votre Mac, ABIB DIGIT ne peut ni le
 
 ## Contact
 
-Une question sur cette politique ? Ouvrez un ticket sur [GitHub](https://github.com/adidiibou0218-ui/pasteina-releases/issues).
+Une question sur cette politique ? Ouvrez un ticket sur [GitHub](https://github.com/abibdigitoff/pasteina-releases/issues).
 
 Si cette politique change, la nouvelle version sera publiée ici, avec sa date.
