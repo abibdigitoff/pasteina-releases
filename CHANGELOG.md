@@ -13,6 +13,10 @@ Les versions 0.1 à 0.4 sont des versions de développement internes : elles n'o
 - Onglets des collections regroupés dans une barre unique, plus lisible.
 - Réglages, écran de bienvenue et aperçu harmonisés avec ce nouveau style.
 - Les téléchargements et les mises à jour sont désormais publiés sur le compte GitHub abibdigitoff.
+- Nouveaux sons originaux de copie et de collage, activés par défaut.
+
+### Corrigé
+- Effets sonores : aucun son ne se jouait à la copie.
 
 ## [1.0.0] – 2026-10-28
 
